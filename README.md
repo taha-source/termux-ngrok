@@ -5,7 +5,7 @@ O [ngrok](https://ngrok.com/) é um serviço que disponibiliza servidores por tr
 ```
 apt update && apt upgrade
 apt install git
-git clone https://github.com/tchelospy/termux-ngrok.git
+git clone https://github.com/taha-source/termux-ngrok.git
 cd termux-ngrok
 chmod +x termux-ngrok.sh
 ./termux-ngrok.sh
